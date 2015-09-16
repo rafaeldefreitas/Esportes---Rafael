@@ -1,0 +1,43 @@
+body{
+	color: black;
+	
+
+	font-family: arial
+}
+p{
+	text-align: justify;
+	font-size: 12px;
+	margin-left: 12,5px;
+	margin-top: 10px;
+	
+}
+h1{
+	text-align: right;
+	text-transform: uppercase;
+}
+
+h2{
+	text-transform: uppercase;
+}
+h5{
+	text-transform: uppercase;
+}
+.gre{
+	color:blue;
+}
+
+.int{
+	color: red;
+	font-style: italic;
+}
+
+.cbf{
+	color: yellow;
+}
+.esp{
+	background-color: grey;
+}
+
+.surf{
+	background-color: blue;
+}
